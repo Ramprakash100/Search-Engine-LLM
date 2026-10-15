@@ -74,3 +74,4 @@ numexpr
 huggingface_hub
 validators
 youtube_transcript_api
+ddgs
